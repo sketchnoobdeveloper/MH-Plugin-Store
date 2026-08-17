@@ -3,7 +3,7 @@
   "repo": "sketchnoobdeveloper/MH-Plugin-Store",
   "branch": "main",
   "path": "plugins/repo",
-  "cdb": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f",
+  "cdb": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main",
   "plugins": [
     {
       "id": "hello.world",
@@ -22,9 +22,9 @@
       "homepage": "",
       "packageName": "snd.mh.sample",
       "file": "SamplePlugin.mhmp",
-      "mhmpSha256": "03cbc1df7a369abad5dbfcfb4dcd7e44a01a5c8d4cd326d24b0d321c652f3d39",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/sample-plugin/latest/SamplePlugin.mhmp",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/sample-plugin/latest/icon.png"
+      "mhmpSha256": "0bfc56f57d6e09251bedc5c1783c52f96280e207a5453202684d489d95cecc01",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/SamplePlugin.mhmp",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/icon.png"
     },
     {
       "id": "mh.admin",
@@ -43,9 +43,9 @@
       "homepage": "https://mh-manager.io",
       "packageName": "mh.admin",
       "file": "MH-Admin-plugin.mhmp",
-      "mhmpSha256": "4f0b1f8c39cabeac67251fb2b4b36056f1c936c404b7abbdf745aee64b7f0d5a",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/mh-admin-plugin/latest/icon.png"
+      "mhmpSha256": "f587d847dc940ca2ae3293e0404dc32cb30bc827fb788142f5359f164ce51f48",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png"
     }
   ]
 }

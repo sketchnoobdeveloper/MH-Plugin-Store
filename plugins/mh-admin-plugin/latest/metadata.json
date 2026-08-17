@@ -15,8 +15,8 @@
   "homepage": "https://mh-manager.io",
   "packageName": "mh.admin",
   "file": "MH-Admin-plugin.mhmp",
-  "mhmpSha256": "4f0b1f8c39cabeac67251fb2b4b36056f1c936c404b7abbdf745aee64b7f0d5a",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
-  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/mh-admin-plugin/latest/icon.png",
+  "mhmpSha256": "f587d847dc940ca2ae3293e0404dc32cb30bc827fb788142f5359f164ce51f48",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png",
   "packagePath": "plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp"
 }
