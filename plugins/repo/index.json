@@ -3,15 +3,15 @@
   "repo": "sketchnoobdeveloper/MH-Plugin-Store",
   "branch": "main",
   "path": "plugins/repo",
-  "cdb": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@832ca24618bbdfcf07857f911b214a40f6aa201a",
+  "cdb": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main",
   "plugins": [
     {
       "id": "hello.world",
       "name": "Hello World",
-      "version": "1.0.1",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "versionCode": 3,
       "type": "tool",
-      "sdkVersion": 1,
+      "sdkVersion": 2,
       "category": "tools",
       "minMHVersion": "1.0.0-beta",
       "permissions": [
@@ -24,19 +24,19 @@
       "homepage": "",
       "packageName": "snd.mh.sample",
       "file": "SamplePlugin.mhmp",
-      "mhmpSha256": "676e443e23c9e983e1ed0b814c7250df22873c33850182dab2ba3e85ed409967",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@832ca24618bbdfcf07857f911b214a40f6aa201a/plugins/sample-plugin/latest/SamplePlugin.mhmp",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@832ca24618bbdfcf07857f911b214a40f6aa201a/plugins/sample-plugin/latest/icon.png",
+      "mhmpSha256": "e370a4a29ae6f1edaab4d5674b51b7b22efcbf8315d8a14c732921e4d01c0f1f",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/SamplePlugin.mhmp",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/icon.png",
       "downloadCount": 0,
       "rating": 0.0
     },
     {
       "id": "mh.admin",
       "name": "MH Admin",
-      "version": "1.0.1",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "versionCode": 3,
       "type": "admin",
-      "sdkVersion": 1,
+      "sdkVersion": 2,
       "category": "system",
       "minMHVersion": "1.0.0-beta",
       "permissions": [
@@ -49,9 +49,9 @@
       "homepage": "https://mh-manager.io",
       "packageName": "mh.admin",
       "file": "MH-Admin-plugin.mhmp",
-      "mhmpSha256": "76cf8403e191f0a8d47ebb7cb1b5eee3976eb343ab0bdddda4969b1e41367bcf",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@832ca24618bbdfcf07857f911b214a40f6aa201a/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@832ca24618bbdfcf07857f911b214a40f6aa201a/plugins/mh-admin-plugin/latest/icon.png",
+      "mhmpSha256": "e9d5bcc67ae17ab68ee912a6d515196b884dfdd39349578469bca53dcc904bf8",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png",
       "downloadCount": 0,
       "rating": 0.0
     }
