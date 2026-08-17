@@ -1,0 +1,22 @@
+{
+  "id": "mh.admin",
+  "name": "MH Admin",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "type": "admin",
+  "minMHVersion": "1.0.0-beta",
+  "permissions": [
+    "firebase_auth",
+    "realtime_database",
+    "app_info"
+  ],
+  "description": "The MH Admin Plugin provides administrative capabilities for managing the MH Manager application, including user management, VIP subscription management, license key redemption, and system configuration.",
+  "author": "MH Manager",
+  "homepage": "https://mh-manager.io",
+  "packageName": "mh.admin",
+  "file": "MH-Admin-plugin.mhmp",
+  "mhmpSha256": "6d7f9f51db8bff23b8d02c0a3e57cf62a64d825b7dd184c5e0b0e2aaa931104f",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png",
+  "packagePath": "plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp"
+}
