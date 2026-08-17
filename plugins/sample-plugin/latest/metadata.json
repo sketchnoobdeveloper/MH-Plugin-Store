@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "versionCode": 1,
   "type": "tool",
+  "category": "tools",
   "minMHVersion": "1.0.0-beta",
   "permissions": [
     "firebase_auth",
@@ -15,8 +16,10 @@
   "homepage": "",
   "packageName": "snd.mh.sample",
   "file": "SamplePlugin.mhmp",
-  "mhmpSha256": "0bfc56f57d6e09251bedc5c1783c52f96280e207a5453202684d489d95cecc01",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@4f01ce3dc6f38db45dc668f2b9367ad0e452adb0/plugins/sample-plugin/latest/SamplePlugin.mhmp",
-  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@4f01ce3dc6f38db45dc668f2b9367ad0e452adb0/plugins/sample-plugin/latest/icon.png",
+  "mhmpSha256": "b8ae72b1329936d5582fd1d44e5076fdc45cc51816bb82c6d9cc0d3913f89c71",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/SamplePlugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/icon.png",
+  "downloadCount": 0,
+  "rating": 0.0,
   "packagePath": "plugins/sample-plugin/latest/SamplePlugin.mhmp"
 }

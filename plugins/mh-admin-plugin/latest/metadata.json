@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "versionCode": 1,
   "type": "admin",
+  "category": "system",
   "minMHVersion": "1.0.0-beta",
   "permissions": [
     "firebase_auth",
@@ -15,8 +16,10 @@
   "homepage": "https://mh-manager.io",
   "packageName": "mh.admin",
   "file": "MH-Admin-plugin.mhmp",
-  "mhmpSha256": "f587d847dc940ca2ae3293e0404dc32cb30bc827fb788142f5359f164ce51f48",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@4f01ce3dc6f38db45dc668f2b9367ad0e452adb0/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
-  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@4f01ce3dc6f38db45dc668f2b9367ad0e452adb0/plugins/mh-admin-plugin/latest/icon.png",
+  "mhmpSha256": "2337bd84a484e6a1a1285c48e83a3b0915af27256c32c43de152a1f1d01542da",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png",
+  "downloadCount": 0,
+  "rating": 0.0,
   "packagePath": "plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp"
 }

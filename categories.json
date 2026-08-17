@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "categories": [
+    {
+      "id": "system",
+      "name": "System"
+    },
+    {
+      "id": "tools",
+      "name": "Tools"
+    }
+  ]
+}
