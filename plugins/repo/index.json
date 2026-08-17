@@ -3,7 +3,7 @@
   "repo": "sketchnoobdeveloper/MH-Plugin-Store",
   "branch": "main",
   "path": "plugins/repo",
-  "cdb": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main",
+  "cdb": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f",
   "plugins": [
     {
       "id": "hello.world",
@@ -23,8 +23,8 @@
       "packageName": "snd.mh.sample",
       "file": "SamplePlugin.mhmp",
       "mhmpSha256": "03cbc1df7a369abad5dbfcfb4dcd7e44a01a5c8d4cd326d24b0d321c652f3d39",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/SamplePlugin.mhmp",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/icon.png"
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/sample-plugin/latest/SamplePlugin.mhmp",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/sample-plugin/latest/icon.png"
     },
     {
       "id": "mh.admin",
@@ -44,8 +44,8 @@
       "packageName": "mh.admin",
       "file": "MH-Admin-plugin.mhmp",
       "mhmpSha256": "4f0b1f8c39cabeac67251fb2b4b36056f1c936c404b7abbdf745aee64b7f0d5a",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png"
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@571b836573d8b8a81921a07f5bf42997a710f46f/plugins/mh-admin-plugin/latest/icon.png"
     }
   ]
 }
