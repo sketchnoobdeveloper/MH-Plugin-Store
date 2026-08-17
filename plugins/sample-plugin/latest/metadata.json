@@ -18,8 +18,8 @@
   "packageName": "snd.mh.sample",
   "file": "SamplePlugin.mhmp",
   "mhmpSha256": "e370a4a29ae6f1edaab4d5674b51b7b22efcbf8315d8a14c732921e4d01c0f1f",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/SamplePlugin.mhmp",
-  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/icon.png",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@89be69893e5438c81c7784ba66f3f471888cfe0d/plugins/sample-plugin/latest/SamplePlugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@89be69893e5438c81c7784ba66f3f471888cfe0d/plugins/sample-plugin/latest/icon.png",
   "downloadCount": 0,
   "rating": 0.0,
   "packagePath": "plugins/sample-plugin/latest/SamplePlugin.mhmp"
