@@ -3,7 +3,7 @@
   "repo": "sketchnoobdeveloper/MH-Plugin-Store",
   "branch": "main",
   "path": "plugins/repo",
-  "cdb": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main",
+  "cdb": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@193cb79259ac06b1c7565feedfc0b6a2a0e34d42",
   "plugins": [
     {
       "id": "hello.world",
@@ -24,8 +24,8 @@
       "packageName": "snd.mh.sample",
       "file": "SamplePlugin.mhmp",
       "mhmpSha256": "2bda206dbd0a8fea4bc463bfe904970cabf3b81e9478a485d043653c2fdf794a",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/SamplePlugin.mhmp",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/icon.png",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@193cb79259ac06b1c7565feedfc0b6a2a0e34d42/plugins/sample-plugin/latest/SamplePlugin.mhmp",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@193cb79259ac06b1c7565feedfc0b6a2a0e34d42/plugins/sample-plugin/latest/icon.png",
       "downloadCount": 0,
       "rating": 0.0
     },
@@ -48,8 +48,8 @@
       "packageName": "mh.admin",
       "file": "MH-Admin-plugin.mhmp",
       "mhmpSha256": "a0219830c417c38ab4298b5c8de5bde5c8a99ad3f4b6dc05c25ed9f96811b284",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@193cb79259ac06b1c7565feedfc0b6a2a0e34d42/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@193cb79259ac06b1c7565feedfc0b6a2a0e34d42/plugins/mh-admin-plugin/latest/icon.png",
       "downloadCount": 0,
       "rating": 0.0
     }
