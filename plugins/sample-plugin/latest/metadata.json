@@ -1,9 +1,10 @@
 {
   "id": "hello.world",
   "name": "Hello World",
-  "version": "1.0.0",
-  "versionCode": 1,
+  "version": "1.0.1",
+  "versionCode": 2,
   "type": "tool",
+  "sdkVersion": 1,
   "category": "tools",
   "minMHVersion": "1.0.0-beta",
   "permissions": [
@@ -16,9 +17,9 @@
   "homepage": "",
   "packageName": "snd.mh.sample",
   "file": "SamplePlugin.mhmp",
-  "mhmpSha256": "2bda206dbd0a8fea4bc463bfe904970cabf3b81e9478a485d043653c2fdf794a",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@193cb79259ac06b1c7565feedfc0b6a2a0e34d42/plugins/sample-plugin/latest/SamplePlugin.mhmp",
-  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@193cb79259ac06b1c7565feedfc0b6a2a0e34d42/plugins/sample-plugin/latest/icon.png",
+  "mhmpSha256": "676e443e23c9e983e1ed0b814c7250df22873c33850182dab2ba3e85ed409967",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/SamplePlugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/sample-plugin/latest/icon.png",
   "downloadCount": 0,
   "rating": 0.0,
   "packagePath": "plugins/sample-plugin/latest/SamplePlugin.mhmp"
