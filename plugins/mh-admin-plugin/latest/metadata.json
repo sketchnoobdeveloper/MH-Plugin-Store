@@ -18,8 +18,8 @@
   "packageName": "mh.admin",
   "file": "MH-Admin-plugin.mhmp",
   "mhmpSha256": "13a5344aacb4c588867b00ea31f0e5fa6cacdf5ddaca5a0887a200b32bbc2f2c",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
-  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@d6d3224b8b72266efdca468d475de13b2775725d/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@d6d3224b8b72266efdca468d475de13b2775725d/plugins/mh-admin-plugin/latest/icon.png",
   "downloadCount": 0,
   "rating": 0.0,
   "packagePath": "plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp"
