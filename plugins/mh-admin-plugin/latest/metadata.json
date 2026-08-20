@@ -1,8 +1,8 @@
 {
   "id": "mh.admin",
   "name": "MH Admin",
-  "version": "1.0.2",
-  "versionCode": 3,
+  "version": "3.0.3",
+  "versionCode": 9,
   "type": "admin",
   "sdkVersion": 2,
   "category": "system",
@@ -10,16 +10,18 @@
   "permissions": [
     "firebase_auth",
     "realtime_database",
-    "app_info"
+    "app_info",
+    "navigation",
+    "host_messaging"
   ],
-  "description": "The MH Admin Plugin provides administrative capabilities for managing the MH Manager application, including user management, VIP subscription management, license key redemption, and system configuration.",
+  "description": "Production-grade enterprise admin console (v3.0.1): session-gated UI with Firebase auth verification, admin RBAC via admins/{uid}, system bar insets, paginated user directory, VIP management, feature flags, license keys, donations, notifications, analytics, and audit logging. All destructive actions require confirmation. Firebase errors surfaced with codes.",
   "author": "MH Manager",
   "homepage": "https://mh-manager.io",
   "packageName": "mh.admin",
   "file": "MH-Admin-plugin.mhmp",
-  "mhmpSha256": "9a7ef957449d6a465a5a0aaa31bc672e9ece3276167e853b96f6089a5952e0fe",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@15b2eab822e518e64b2c5926cf0a7a637cefa4ac/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
-  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@15b2eab822e518e64b2c5926cf0a7a637cefa4ac/plugins/mh-admin-plugin/latest/icon.png",
+  "mhmpSha256": "64c2ff5671f5588a7c0f16a17d21a194bcbdc7c9fc07dae6ee48608de4dacc95",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@main/plugins/mh-admin-plugin/latest/icon.png",
   "downloadCount": 0,
   "rating": 0.0,
   "packagePath": "plugins/mh-admin-plugin/latest/MH-Admin-plugin.mhmp"
