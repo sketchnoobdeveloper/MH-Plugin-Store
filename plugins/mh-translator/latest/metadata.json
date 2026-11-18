@@ -1,0 +1,24 @@
+{
+  "id": "mh.translator",
+  "name": "Multi Language Translator",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "type": "tool",
+  "sdkVersion": 2,
+  "category": "tools",
+  "minMHVersion": "1.0.0-beta",
+  "permissions": [
+    "host_messaging"
+  ],
+  "description": "Google-powered translator with auto-detect, 100+ languages, swap, copy, share and history.",
+  "author": "MH Manager",
+  "homepage": "",
+  "packageName": "mh.translator",
+  "file": "TranslatorPlugin.mhmp",
+  "mhmpSha256": "785d62385bb1e3bbf4a476d03cb038ddc1404ba6c620f97c950b59fbc910aa46",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@d80426b680ac9893bdb50ecd599d56d38ba31a3b/plugins/mh-translator/latest/TranslatorPlugin.mhmp",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/sketchnoobdeveloper/MH-Plugin-Store@d80426b680ac9893bdb50ecd599d56d38ba31a3b/plugins/mh-translator/latest/icon.png",
+  "downloadCount": 0,
+  "rating": 0.0,
+  "packagePath": "plugins/mh-translator/latest/TranslatorPlugin.mhmp"
+}
