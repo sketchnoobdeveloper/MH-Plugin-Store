@@ -1,0 +1,28 @@
+{
+  "id": "mh.toolbox",
+  "name": "MH ToolBox",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "type": "tool",
+  "sdkVersion": 2,
+  "category": "tools",
+  "minMHVersion": "1.0.0-beta",
+  "maxMHVersion": null,
+  "permissions": [
+    "host_messaging"
+  ],
+  "entry": "plugin.apk",
+  "packageName": "mh.toolbox",
+  "icon": "icon.png",
+  "mainClass": "mh.toolbox.ToolBoxPlugin",
+  "description": "Professional tool launcher with every MH Manager tool, categories, search and one-tap launch.",
+  "author": "MH Manager",
+  "homepage": "",
+  "file": "ToolBoxPlugin.mhmp",
+  "mhmpSha256": "66a0ebea288fbf26a22c025e02df956e951fc1fea46b82a74b1bfed47ddfe352",
+  "downloadUrl": "https://raw.githubusercontent.com/sketchnoobdeveloper/MH-Plugin-Store/main/plugins/mh-toolbox/latest/ToolBoxPlugin.mhmp",
+  "iconUrl": "https://raw.githubusercontent.com/sketchnoobdeveloper/MH-Plugin-Store/main/plugins/mh-toolbox/latest/icon.png",
+  "downloadCount": 0,
+  "rating": 0.0,
+  "packagePath": "plugins/mh-toolbox/latest/ToolBoxPlugin.mhmp"
+}
